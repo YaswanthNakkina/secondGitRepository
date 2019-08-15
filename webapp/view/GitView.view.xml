@@ -6,7 +6,7 @@
 					<content>
 						<List items="{/fruits}" >
 							<items>
-								<ObjectListItem title="{fruitName}" intro="{healthBenfit}" icon="{image}" number="{price}" numberUnit="{priceQty}"></ObjectListItem>
+								<ObjectListItem title="{fruitName}Color:{color}" intro="{healthBenfit}" icon="{image}" number="{price}" numberUnit="{priceQty}"></ObjectListItem>
 							</items>
 						</List>
 					</content>
