@@ -7,6 +7,9 @@ sap.ui.define([
 	return Controller.extend("practice.myGitDemo.controller.GitView", {
 		onInit: function () {
 
+		},
+		onUpdate: function(){
+			sap.m.MessageToast.show("Fruits For cheap");
 		}
 	});
 });

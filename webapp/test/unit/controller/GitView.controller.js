@@ -3,6 +3,7 @@
 sap.ui.define([
 	"practice/myGitDemo/controller/GitView.controller"
 ], function (Controller) {
+	//Strict Mode
 	"use strict";
 
 	QUnit.module("GitView Controller");
